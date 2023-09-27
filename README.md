@@ -1,4 +1,4 @@
-### Hola mi nombre es Katherine Lujan 👋👩‍💻
+### Hi I'm Katy👋👩‍💻
 
 <!--
 **katherinelujan/katherinelujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
